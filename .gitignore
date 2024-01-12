@@ -1,0 +1,6 @@
+# ignore pdf files
+*.pdf
+# ignore workspace
+*.code-workspace
+# ignore .vs folder
+/.vs
